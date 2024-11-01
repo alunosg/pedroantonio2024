@@ -1,0 +1,10 @@
+﻿Pedro GameDevI/.vs
+Pedro GameDevI/.vscode
+Pedro GameDevI/UserSettings
+Pedro GameDevI/Temp
+*.csproj
+*.sln
+Pedro GameDevI/Library
+Pedro GameDevI/Logs
+Pedro GameDevI/obj
+*.vsconfig
